@@ -1,3 +1,9 @@
+memory game where you earn points for clicking an album if you click the same album twice you lose and the score resets
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
